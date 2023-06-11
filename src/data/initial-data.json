@@ -1,0 +1,119 @@
+[
+  {
+    "category": "Escola",
+    "url": "escola",
+    "description": "Tem como educar os felinos? Aqui você descobre tudo o que facilita a convivência com os gatos!",
+    "color": "#6B5BE2",
+    "videos": [
+      {
+        "id": "fimb9sZuPGY",
+        "title": "Por que meu gato me morde?",
+        "description": "Você está acariciando seu gato e ele te morde “do nada”? O que está acontecendo? Porque ele te morde na hora do carinho?"
+      },
+      {
+        "id": "OC3PvXYscNI",
+        "title": "Como Educar seus Gatos",
+        "description": "Aprenda técnicas de como educar seus gatos de forma fácil e eficiente!"
+      },
+      {
+        "id": "t-wRYysanDk",
+        "title": "Castração em Gatos - Qual a importância?",
+        "description": "Castrar é super importante para nossos gatos, não só para controle de procriação, mas para evitar doenças, evitar marcação de território, além de prolongar a vida dos gatinhos."
+      },
+      {
+        "id": "fjAcBui_FqA",
+        "title": "Como ensinar seu gato a não subir nas coisas",
+        "description": "Vocês vão se surpreender com esse vídeo! Como ensinar seu gato a não subir nas coisas?"
+      },
+      {
+        "id": "XkjJhwjnNW4",
+        "title": "8 Coisas que os Gatos Odeiam que Seus Donos Façam!",
+        "description": "Se você é apaixonado(a) por gatos como eu, e tem muitas perguntas em relação ao mundo desse bichano."
+      }
+    ]
+  },
+  {
+    "category": "Comida",
+    "url": "comida",
+    "description": "Receitinhas deliciosas para encher a barriguinha e ter energia para brincar!",
+    "color": "#9CD33B",
+    "videos": [
+      {
+        "id": "fLBQpQBeL2E",
+        "title": "Comida Natural",
+        "description": "uma maneira fácil de deixar nossos gatos muito mais saudáveis e mais felizes comendo comida de verdade e nutritiva."
+      },
+      {
+        "id": "Aa22MafuKxg",
+        "title": "Biscoito para Gatos",
+        "description": "Receita caseira de biscoito para gatos, super prática, simples e gostosa!"
+      },
+      {
+        "id": "JmF-NjHg7JY",
+        "title": "5 Receitas Caseiras",
+        "description": "Quem ama gatos sabe que as guloseimas existentes no mercado são cheias de corantes e conservantes. Sugerimos essas receitas caseira nutritiva e sem conservantes."
+      }
+    ]
+  },
+  {
+    "category": "Moda",
+    "url": "moda",
+    "description": "Dicas de looks!",
+    "color": "#DC6EBE",
+    "videos": [
+      {
+        "id": "XtUxQxeUKQk",
+        "title": "Aprenda a fazer roupa cirúrgica para gatos.",
+        "description": "Vem aprender como fazer uma roupa cirúrgica para o seu gato de forma fácil e barata!"
+      },
+      {
+        "id": "BOQrOW97OEQ",
+        "title": "Dicas de Enxoval de Gato.",
+        "description": "Tem dúvidas do que comprar para fazer o enxoval do seu gato? Veja essas dicas."
+      },
+      {
+        "id": "op2X5IMj4qk",
+        "title": "7 Brinquedos para o seu Gato",
+        "description": "Saiba os 7 brinquedos preferidos dos gatos!."
+      },
+      {
+        "id": "GyvcmmM1dqE",
+        "title": "Porque Alguns Gatos Precisam de Banho?",
+        "description": "Saiba os cuidados necessários."
+      }
+    ]
+  },
+  {
+    "category": "Utilidades",
+    "url": "utilidades",
+    "description": "Outras informações para se inspirar e aproveitar o máximo a companhia do bichano!",
+    "color": "#FF8C2A",
+    "videos": [
+      {
+        "id": "FnBkIGOGlCI",
+        "title": "Escolhendo Nomes para Gatos",
+        "description": "Aqui você encontra sugestões de nomes para seu gato!"
+      },
+      {
+        "id": "GXFBNRe2AFk",
+        "title": "A História dos Gatos.",
+        "description": "O começo com a amizade com os humanos até os dias de hoje. "
+      },
+      {
+        "id": "nRq13y7a4Mg",
+        "title": "Vacinação em Gatos",
+        "description": "O que você deve saber."
+      },
+      {
+        "id": "TMI7boloheo&t=514s",
+        "title": "100 Curiosidades sobre gatos que vão te surpreender",
+        "description": "Descubra muitos fatos, peculiaridades e curiosidades sobre o comportamento, caráter e anatomia dos gatos."
+      },
+      {
+        "id": "ZRwbHNTSEZg",
+        "title": "Higiêne bucal felina.",
+        "description": "Como cuidar dos dentes dos gatos?"
+      }
+    ]
+  }
+]
